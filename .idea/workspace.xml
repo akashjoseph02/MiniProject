@@ -5,8 +5,60 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ecdda243-53c0-4e18-a76b-bc5d4a836ad3" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/module-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/module-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/1027.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Cosco-Football-Full.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/adidas_boot.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/adidas_copa.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/adidas_gloves.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/barcelona.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/borusia_jersey.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/call.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/cart.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/cart2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/city2_jersey.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/city_jersey.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/miniproject/2nd_page.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/miniproject/Fshinguard.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/miniproject/Fsocks.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/miniproject/about_page.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/miniproject/createmessage.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/miniproject/final.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/miniproject/footballaccessories.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/miniproject/footballsocks.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/miniproject/shooppingcart.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/miniproject/shopJersy.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/miniproject/shop_page.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/miniproject/shopmenu.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/miniproject/shoppingcart_boots.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/dortmund_jersey.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/download_bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/gradient.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/home.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/images.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/info.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/jell.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/mun_home.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/nike_boot.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/nike_boot1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/nike_gloves.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/nike_mercurial_real.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/nike_orde.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/pexels1.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/pexels_bg.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/pexels_rename.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/psg_jersey.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/puma_evo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/pume_eclipse.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/realmadrid_jersey.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/rightarrow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/rightgreen.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/save.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/search.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/sports-hub.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/miniproject/HelloApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/miniproject/HelloApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/miniproject/HelloController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/miniproject/HelloController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/resources/com/example/miniproject/hello-view.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/example/miniproject/hello-view.fxml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -14,22 +66,42 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="29NAoPwftrve6OwlFNmAPGpj4fi" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\itsme\IdeaProjects\MiniProject\src\main\resources" />
+      <recent name="C:\Users\itsme\IdeaProjects\MiniProject\src\main\resources\com\example\miniproject" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="HelloApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.example.miniproject.HelloApplication" />
@@ -58,7 +130,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1652943344483</updated>
-      <workItem from="1652943345772" duration="1000" />
+      <workItem from="1652943345772" duration="835000" />
+      <workItem from="1653232756236" duration="4002000" />
+      <workItem from="1653369711938" duration="7662000" />
+      <workItem from="1653455418008" duration="17986000" />
+      <workItem from="1653493402192" duration="2439000" />
+      <workItem from="1653621448902" duration="7386000" />
+      <workItem from="1653638064470" duration="10021000" />
+      <workItem from="1653666275778" duration="155000" />
+      <workItem from="1653712893314" duration="4444000" />
+      <workItem from="1653725736083" duration="2831000" />
     </task>
     <servers />
   </component>
@@ -75,5 +156,8 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>

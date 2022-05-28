@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.effect.DropShadow?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane prefHeight="480.0" prefWidth="640.0" xmlns="http://javafx.com/javafx/18" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.miniproject.HelloController">
+   <children>
+      <ImageView fitHeight="480.0" fitWidth="718.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@../../../gradient.jpg" />
+         </image>
+      </ImageView>
+      <Button layoutX="232.0" layoutY="5.0" mnemonicParsing="false" text="FOOTBALL">
+         <font>
+            <Font name="Berlin Sans FB" size="29.0" />
+         </font>
+      </Button>
+      <ImageView fitHeight="123.0" fitWidth="129.0" layoutX="41.0" layoutY="75.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@../../../Cosco-Football-Full.png" />
+         </image>
+      </ImageView>
+      <ImageView fitHeight="123.0" fitWidth="125.0" layoutX="259.0" layoutY="75.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@../../../nike_orde.jpg" />
+         </image>
+      </ImageView>
+      <ImageView fitHeight="123.0" fitWidth="125.0" layoutX="474.0" layoutY="75.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@../../../puma_evo.jpg" />
+         </image>
+      </ImageView>
+      <ImageView fitHeight="136.0" fitWidth="125.0" layoutX="41.0" layoutY="274.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@../../../adidasfootball.jpg" />
+         </image>
+      </ImageView>
+      <ImageView fitHeight="132.0" fitWidth="125.0" layoutX="258.0" layoutY="274.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@../../../brazucafootball.jpg" />
+         </image>
+      </ImageView>
+      <ImageView fitHeight="123.0" fitWidth="125.0" layoutX="474.0" layoutY="275.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@../../../jabulani.jpg" />
+         </image>
+      </ImageView>
+      <Label layoutX="60.0" layoutY="206.0" style="-fx-background-color: black;" text=" Cosco Football " textFill="#34ff1d">
+         <effect>
+            <DropShadow />
+         </effect>
+      </Label>
+      <Label layoutX="264.0" layoutY="206.0" style="-fx-background-color: black;" text=" Nike Ordem Football " textFill="WHITE">
+         <effect>
+            <DropShadow />
+         </effect>
+      </Label>
+      <Label layoutX="481.0" layoutY="206.0" style="-fx-background-color: black;" text=" Puma EVO Football " textFill="#ef630c">
+         <effect>
+            <DropShadow />
+         </effect>
+      </Label>
+      <Label layoutX="12.0" layoutY="408.0" style="-fx-background-color: white;" text="UEFA Champions League Football ">
+         <effect>
+            <DropShadow />
+         </effect>
+      </Label>
+      <Label layoutX="273.0" layoutY="408.0" style="-fx-background-color: blue;" text=" Brazuca Football " textFill="WHITE">
+         <effect>
+            <DropShadow />
+         </effect>
+      </Label>
+      <Label layoutX="467.0" layoutY="408.0" style="-fx-background-color: green;" text=" Adidas Jabulani Football " textFill="WHITE">
+         <effect>
+            <DropShadow />
+         </effect>
+      </Label>
+      <ImageView blendMode="MULTIPLY" fitHeight="35.0" fitWidth="47.0" layoutX="78.0" layoutY="230.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@../../../cart2.png" />
+         </image>
+      </ImageView>
+      <ImageView blendMode="MULTIPLY" fitHeight="35.0" fitWidth="47.0" layoutX="508.0" layoutY="431.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@../../../cart2.png" />
+         </image>
+      </ImageView>
+      <ImageView blendMode="MULTIPLY" fitHeight="35.0" fitWidth="47.0" layoutX="290.0" layoutY="431.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@../../../cart2.png" />
+         </image>
+      </ImageView>
+      <ImageView blendMode="MULTIPLY" fitHeight="35.0" fitWidth="47.0" layoutX="78.0" layoutY="431.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@../../../cart2.png" />
+         </image>
+      </ImageView>
+      <ImageView blendMode="MULTIPLY" fitHeight="35.0" fitWidth="47.0" layoutX="508.0" layoutY="230.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@../../../cart2.png" />
+         </image>
+      </ImageView>
+      <ImageView blendMode="MULTIPLY" fitHeight="35.0" fitWidth="47.0" layoutX="290.0" layoutY="230.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@../../../cart2.png" />
+         </image>
+      </ImageView>
+      <ImageView blendMode="MULTIPLY" fitHeight="34.0" fitWidth="41.0" layoutX="43.0" layoutY="230.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@../../../info.png" />
+         </image>
+      </ImageView>
+      <ImageView blendMode="MULTIPLY" fitHeight="34.0" fitWidth="41.0" layoutX="474.0" layoutY="431.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@../../../info.png" />
+         </image>
+      </ImageView>
+      <ImageView blendMode="MULTIPLY" fitHeight="34.0" fitWidth="41.0" layoutX="256.0" layoutY="431.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@../../../info.png" />
+         </image>
+      </ImageView>
+      <ImageView blendMode="MULTIPLY" fitHeight="34.0" fitWidth="41.0" layoutX="43.0" layoutY="431.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@../../../info.png" />
+         </image>
+      </ImageView>
+      <ImageView blendMode="MULTIPLY" fitHeight="34.0" fitWidth="41.0" layoutX="474.0" layoutY="230.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@../../../info.png" />
+         </image>
+      </ImageView>
+      <ImageView blendMode="MULTIPLY" fitHeight="34.0" fitWidth="41.0" layoutX="256.0" layoutY="230.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@../../../info.png" />
+         </image>
+      </ImageView>
+      <Button layoutX="25.0" layoutY="9.0" mnemonicParsing="false" onAction="#shopMenu" opacity="0.0" prefHeight="51.0" prefWidth="52.0" text="Button" />
+      <Label layoutX="125.0" layoutY="238.0" style="-fx-background-color: black;" text=" Rs 1000 /- " textFill="#34ff1d">
+         <effect>
+            <DropShadow />
+         </effect>
+      </Label>
+      <Label layoutX="337.0" layoutY="238.0" style="-fx-background-color: black;" text=" Rs 2500 /- " textFill="WHITE">
+         <effect>
+            <DropShadow />
+         </effect>
+      </Label>
+      <Label layoutX="555.0" layoutY="238.0" style="-fx-background-color: black;" text=" Rs 800 /- " textFill="#ef630c">
+         <effect>
+            <DropShadow />
+         </effect>
+      </Label>
+      <Label layoutX="136.0" layoutY="439.0" style="-fx-background-color: white;" text=" Rs 2000 /- ">
+         <effect>
+            <DropShadow />
+         </effect>
+      </Label>
+      <Label layoutX="337.0" layoutY="439.0" style="-fx-background-color: blue;" text=" Rs 1500 /- " textFill="WHITE">
+         <effect>
+            <DropShadow />
+         </effect>
+      </Label>
+      <Label layoutX="552.0" layoutY="439.0" style="-fx-background-color: green;" text=" Rs 1200 /- " textFill="WHITE">
+         <effect>
+            <DropShadow />
+         </effect>
+      </Label>
+      <ImageView blendMode="MULTIPLY" fitHeight="68.0" fitWidth="123.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@../../../leftarrpng.png" />
+         </image>
+      </ImageView>
+      <Button fx:id="closeButton" layoutX="36.0" layoutY="2.0" mnemonicParsing="false" onAction="#shopMenu" opacity="0.0" prefHeight="45.0" prefWidth="52.0" text="Button" />
+      <Button layoutX="89.0" layoutY="233.0" mnemonicParsing="false" onAction="#coscoFootball" opacity="0.0" prefHeight="26.0" prefWidth="22.0" text="Button" />
+      <Button layoutX="302.0" layoutY="233.0" mnemonicParsing="false" onAction="#nikeOrdem" opacity="0.0" prefHeight="26.0" prefWidth="22.0" text="Button" />
+      <Button layoutX="519.0" layoutY="233.0" mnemonicParsing="false" onAction="#pumaEvo" opacity="0.0" prefHeight="26.0" prefWidth="22.0" text="Button" />
+      <Button layoutX="89.0" layoutY="434.0" mnemonicParsing="false" onAction="#uefa" opacity="0.0" prefHeight="26.0" prefWidth="22.0" text="Button" />
+      <Button layoutX="302.0" layoutY="435.0" mnemonicParsing="false" onAction="#brazucaFootball" opacity="0.0" prefHeight="26.0" prefWidth="22.0" text="Button" />
+      <Button layoutX="519.0" layoutY="435.0" mnemonicParsing="false" onAction="#jabulaniFootball" opacity="0.0" prefHeight="26.0" prefWidth="22.0" text="Button" />
+      <ImageView blendMode="MULTIPLY" fitHeight="70.0" fitWidth="74.0" layoutX="560.0" layoutY="5.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@../../../rpng.png" />
+         </image>
+      </ImageView>
+      <Button layoutX="588.0" layoutY="10.0" mnemonicParsing="false" onAction="#checkout" opacity="0.0" prefHeight="34.0" prefWidth="17.0" text="Button" />
+   </children>
+</AnchorPane>

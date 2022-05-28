@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.effect.DropShadow?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane prefHeight="480.0" prefWidth="640.0" xmlns="http://javafx.com/javafx/18" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.miniproject.HelloController">
+   <children>
+      <ImageView fitHeight="480.0" fitWidth="733.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@../../../gradient.jpg" />
+         </image>
+      </ImageView>
+      <Button layoutX="186.0" mnemonicParsing="false" text="FOOTBALL SOCKS">
+         <font>
+            <Font name="Berlin Sans FB" size="29.0" />
+         </font>
+      </Button>
+      <ImageView fitHeight="133.0" fitWidth="140.0" layoutX="32.0" layoutY="66.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@../../../linga_socks.jpeg" />
+         </image>
+      </ImageView>
+      <ImageView fitHeight="133.0" fitWidth="133.0" layoutX="253.0" layoutY="66.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@../../../boto_socks.jpg" />
+         </image>
+      </ImageView>
+      <ImageView fitHeight="150.0" fitWidth="200.0" pickOnBounds="true" preserveRatio="true" />
+      <ImageView fitHeight="133.0" fitWidth="133.0" layoutX="470.0" layoutY="66.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@../../../nikesocks.jpg" />
+         </image>
+      </ImageView>
+      <ImageView fitHeight="133.0" fitWidth="133.0" layoutX="32.0" layoutY="271.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@../../../pumasocks.jpg" />
+         </image>
+      </ImageView>
+      <ImageView fitHeight="133.0" fitWidth="133.0" layoutX="254.0" layoutY="271.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@../../../pumablackpoolsocks.jpg" />
+         </image>
+      </ImageView>
+      <ImageView fitHeight="133.0" fitWidth="133.0" layoutX="470.0" layoutY="271.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@../../../adidassocks.jpg" />
+         </image>
+      </ImageView>
+      <Label layoutX="43.0" layoutY="204.0" style="-fx-background-color: white;" text=" Linga Football Socks " textAlignment="CENTER">
+         <effect>
+            <DropShadow />
+         </effect>
+      </Label>
+      <Label layoutX="265.0" layoutY="204.0" style="-fx-background-color: yellow;" text=" Boto Football Socks ">
+         <effect>
+            <DropShadow />
+         </effect>
+      </Label>
+      <Label layoutX="484.0" layoutY="204.0" style="-fx-background-color: red;" text=" Nike Footbal Socks ">
+         <effect>
+            <DropShadow />
+         </effect>
+      </Label>
+      <Label layoutX="40.0" layoutY="412.0" style="-fx-background-color: blue;" text=" Puma Football Socks " textFill="WHITE">
+         <effect>
+            <DropShadow />
+         </effect>
+      </Label>
+      <Label layoutX="261.0" layoutY="412.0" style="-fx-background-color: orange;" text=" Puma Football Socks " textFill="WHITE">
+         <effect>
+            <DropShadow />
+         </effect>
+      </Label>
+      <Label layoutX="476.0" layoutY="412.0" style="-fx-background-color: blue;" text=" Adidas Football Socks " textFill="WHITE">
+         <effect>
+            <DropShadow />
+         </effect>
+      </Label>
+      <ImageView blendMode="MULTIPLY" fitHeight="35.0" fitWidth="48.0" layoutX="61.0" layoutY="229.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@../../../cart2.png" />
+         </image>
+      </ImageView>
+      <ImageView blendMode="MULTIPLY" fitHeight="35.0" fitWidth="48.0" layoutX="511.0" layoutY="438.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@../../../cart2.png" />
+         </image>
+      </ImageView>
+      <ImageView blendMode="MULTIPLY" fitHeight="35.0" fitWidth="48.0" layoutX="283.0" layoutY="438.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@../../../cart2.png" />
+         </image>
+      </ImageView>
+      <ImageView blendMode="MULTIPLY" fitHeight="35.0" fitWidth="48.0" layoutX="61.0" layoutY="438.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@../../../cart2.png" />
+         </image>
+      </ImageView>
+      <ImageView blendMode="MULTIPLY" fitHeight="35.0" fitWidth="48.0" layoutX="511.0" layoutY="229.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@../../../cart2.png" />
+         </image>
+      </ImageView>
+      <ImageView blendMode="MULTIPLY" fitHeight="35.0" fitWidth="48.0" layoutX="283.0" layoutY="229.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@../../../cart2.png" />
+         </image>
+      </ImageView>
+      <ImageView blendMode="MULTIPLY" fitHeight="35.0" fitWidth="36.0" layoutX="26.0" layoutY="229.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@../../../info.png" />
+         </image>
+      </ImageView>
+      <ImageView blendMode="MULTIPLY" fitHeight="35.0" fitWidth="36.0" layoutX="476.0" layoutY="438.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@../../../info.png" />
+         </image>
+      </ImageView>
+      <ImageView blendMode="MULTIPLY" fitHeight="35.0" fitWidth="36.0" layoutX="248.0" layoutY="438.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@../../../info.png" />
+         </image>
+      </ImageView>
+      <ImageView blendMode="MULTIPLY" fitHeight="35.0" fitWidth="36.0" layoutX="26.0" layoutY="438.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@../../../info.png" />
+         </image>
+      </ImageView>
+      <ImageView blendMode="MULTIPLY" fitHeight="35.0" fitWidth="36.0" layoutX="476.0" layoutY="229.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@../../../info.png" />
+         </image>
+      </ImageView>
+      <ImageView blendMode="MULTIPLY" fitHeight="35.0" fitWidth="36.0" layoutX="248.0" layoutY="229.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@../../../info.png" />
+         </image>
+      </ImageView>
+      <Label layoutX="109.0" layoutY="238.0" style="-fx-background-color: white;" text=" Rs 300 /- " textAlignment="CENTER">
+         <effect>
+            <DropShadow />
+         </effect>
+      </Label>
+      <Label layoutX="331.0" layoutY="238.0" style="-fx-background-color: yellow;" text=" Rs 200 /- ">
+         <effect>
+            <DropShadow />
+         </effect>
+      </Label>
+      <Label layoutX="559.0" layoutY="238.0" style="-fx-background-color: red;" text=" Rs 500 /- ">
+         <effect>
+            <DropShadow />
+         </effect>
+      </Label>
+      <Label layoutX="109.0" layoutY="447.0" style="-fx-background-color: blue;" text=" Rs 400 /- " textFill="WHITE">
+         <effect>
+            <DropShadow />
+         </effect>
+      </Label>
+      <Label layoutX="331.0" layoutY="447.0" style="-fx-background-color: orange;" text=" Rs 300 /- " textFill="WHITE">
+         <effect>
+            <DropShadow />
+         </effect>
+      </Label>
+      <Label layoutX="559.0" layoutY="447.0" style="-fx-background-color: blue;" text=" Rs 700 /- " textFill="WHITE">
+         <effect>
+            <DropShadow />
+         </effect>
+      </Label>
+      <ImageView blendMode="MULTIPLY" fitHeight="64.0" fitWidth="108.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@../../../leftarrpng.png" />
+         </image>
+      </ImageView>
+      <Button fx:id="closeButton" layoutX="28.0" layoutY="1.0" mnemonicParsing="false" onAction="#shopMenu" opacity="0.0" prefHeight="35.0" prefWidth="52.0" text="Button" />
+      <Button layoutX="71.0" layoutY="233.0" mnemonicParsing="false" onAction="#lingaSocks" opacity="0.0" prefHeight="26.0" prefWidth="26.0" text="Button" />
+      <Button layoutX="293.0" layoutY="233.0" mnemonicParsing="false" onAction="#BotoSocks" opacity="0.0" prefHeight="26.0" prefWidth="26.0" text="Button" />
+      <Button layoutX="521.0" layoutY="233.0" mnemonicParsing="false" onAction="#NikeSocks" opacity="0.0" prefHeight="26.0" prefWidth="26.0" text="Button" />
+      <Button layoutX="71.0" layoutY="442.0" mnemonicParsing="false" onAction="#PumaSocks" opacity="0.0" prefHeight="26.0" prefWidth="26.0" text="Button" />
+      <Button layoutX="293.0" layoutY="442.0" mnemonicParsing="false" onAction="#PumaSocks2" opacity="0.0" prefHeight="26.0" prefWidth="26.0" text="Button" />
+      <Button layoutX="521.0" layoutY="442.0" mnemonicParsing="false" onAction="#AdidasSocks" opacity="0.0" prefHeight="26.0" prefWidth="26.0" text="Button" />
+      <ImageView blendMode="MULTIPLY" fitHeight="51.0" fitWidth="74.0" layoutX="564.0" layoutY="2.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@../../../rpng.png" />
+         </image>
+      </ImageView>
+      <Button layoutX="586.0" layoutY="5.0" mnemonicParsing="false" onAction="#checkout" opacity="0.0" prefHeight="46.0" prefWidth="26.0" text="Button" />
+   </children>
+</AnchorPane>

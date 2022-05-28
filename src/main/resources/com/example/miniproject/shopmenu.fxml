@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.effect.DropShadow?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane prefHeight="480.0" prefWidth="640.0" xmlns="http://javafx.com/javafx/18" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.miniproject.HelloController">
+   <children>
+      <ImageView fitHeight="648.0" fitWidth="640.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@../../../bg.jpg" />
+         </image>
+      </ImageView>
+      <Button layoutX="97.0" layoutY="53.0" mnemonicParsing="false" prefHeight="49.0" prefWidth="446.0" text="CHOOSE WHICH SECTION YOU WANT TO SHOP :-" textAlignment="CENTER" wrapText="true">
+         <font>
+            <Font name="Palatino Linotype" size="17.0" />
+         </font>
+         <effect>
+            <DropShadow />
+         </effect>
+      </Button>
+      <Button layoutX="260.0" layoutY="160.0" mnemonicParsing="false" prefHeight="39.0" prefWidth="120.0" text="JERSEYS">
+         <font>
+            <Font name="Berlin Sans FB" size="20.0" />
+         </font>
+         <effect>
+            <DropShadow />
+         </effect>
+      </Button>
+      <Button layoutX="225.0" layoutY="220.0" mnemonicParsing="false" prefHeight="39.0" prefWidth="190.0" text="FOOTBALL BOOTS">
+         <font>
+            <Font name="Berlin Sans FB" size="20.0" />
+         </font>
+         <effect>
+            <DropShadow />
+         </effect>
+      </Button>
+      <Button layoutX="225.0" layoutY="285.0" mnemonicParsing="false" prefHeight="39.0" prefWidth="190.0" text="FOOTBALL SOCKS">
+         <font>
+            <Font name="Berlin Sans FB" size="20.0" />
+         </font>
+         <effect>
+            <DropShadow />
+         </effect>
+      </Button>
+      <Button layoutX="260.0" layoutY="160.0" mnemonicParsing="false" onAction="#shopJersi" opacity="0.0" prefHeight="39.0" prefWidth="120.0" text="Button" />
+      <Button layoutX="223.0" layoutY="220.0" mnemonicParsing="false" onAction="#shopBoots" opacity="0.0" prefHeight="39.0" prefWidth="190.0" text="Button" />
+      <Button layoutX="226.0" layoutY="285.0" mnemonicParsing="false" onAction="#shopSocksmenu" opacity="0.0" prefHeight="39.0" prefWidth="190.0" text="Button" />
+      <ImageView blendMode="MULTIPLY" fitHeight="83.0" fitWidth="61.0" layoutX="14.0" layoutY="14.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@../../../home.jpg" />
+         </image>
+      </ImageView>
+      <Button fx:id="closeButton" layoutX="19.0" layoutY="27.0" mnemonicParsing="false" onAction="#button" opacity="0.0" prefHeight="50.0" prefWidth="52.0" text="Button" />
+      <Button layoutX="198.0" layoutY="349.0" mnemonicParsing="false" prefHeight="39.0" prefWidth="246.0" text="FOOTBALLS">
+         <font>
+            <Font name="Berlin Sans FB" size="20.0" />
+         </font>
+         <effect>
+            <DropShadow />
+         </effect>
+      </Button>
+      <Button layoutX="198.0" layoutY="349.0" mnemonicParsing="false" onAction="#shopFootball" opacity="0.0" prefHeight="39.0" prefWidth="246.0" text="Button" />
+   </children>
+</AnchorPane>
