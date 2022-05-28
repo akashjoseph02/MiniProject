@@ -28,18 +28,24 @@
             <DropShadow />
          </effect>
       </Label>
-      <Button layoutX="166.0" layoutY="240.0" mnemonicParsing="false" text="Back to Home window">
+      <Button layoutX="131.0" layoutY="240.0" mnemonicParsing="false" text="Back to Home window">
          <effect>
             <DropShadow />
          </effect>
+         <font>
+            <Font name="Copperplate Gothic Bold" size="15.0" />
+         </font>
       </Button>
       <Button layoutX="51.0" layoutY="274.0" mnemonicParsing="false" onAction="#button" opacity="0.0" prefHeight="26.0" prefWidth="135.0" text="Button" />
-      <Button layoutX="165.0" layoutY="307.0" mnemonicParsing="false" prefHeight="26.0" prefWidth="135.0" text="Go to Shopping">
+      <Button layoutX="157.0" layoutY="308.0" mnemonicParsing="false" prefHeight="28.0" prefWidth="149.0" text="Go to Shopping">
          <effect>
             <DropShadow />
          </effect>
+         <font>
+            <Font name="Copperplate Gothic Bold" size="15.0" />
+         </font>
       </Button>
-      <Button layoutX="166.0" layoutY="307.0" mnemonicParsing="false" onAction="#next_shop" opacity="0.0" prefHeight="26.0" prefWidth="135.0" text="Button" />
-      <Button fx:id="closeButton" layoutX="166.0" layoutY="239.0" mnemonicParsing="false" onAction="#button" opacity="0.0" prefHeight="26.0" prefWidth="135.0" text="Button" />
+      <Button layoutX="157.0" layoutY="309.0" mnemonicParsing="false" onAction="#next_shop" opacity="0.0" prefHeight="26.0" prefWidth="150.0" text="Button" />
+      <Button fx:id="closeButton" layoutX="129.0" layoutY="241.0" mnemonicParsing="false" onAction="#button" opacity="0.0" prefHeight="26.0" prefWidth="206.0" text="Button" />
    </children>
 </AnchorPane>

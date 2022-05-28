@@ -134,9 +134,9 @@
             <Font name="Doppio One Regular" size="15.0" />
          </font>
       </Label>
-      <Button layoutX="274.0" layoutY="428.0" mnemonicParsing="false" onAction="#create" prefHeight="26.0" prefWidth="91.0" style="-fx-background-color: yellow;" text="CREATE" textAlignment="CENTER" wrapText="true">
+      <Button layoutX="261.0" layoutY="432.0" mnemonicParsing="false" onAction="#create" prefHeight="33.0" prefWidth="120.0" style="-fx-background-color: yellow;" text="CREATE" textAlignment="CENTER" wrapText="true">
          <font>
-            <Font name="Dosis Regular" size="18.0" />
+            <Font name="Copperplate Gothic Bold" size="18.0" />
          </font>
          <effect>
             <DropShadow />

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+
+<AnchorPane prefHeight="480.0" prefWidth="640.0" xmlns="http://javafx.com/javafx/18" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.miniproject.HelloController">
+   <children>
+      <ImageView fitHeight="480.0" fitWidth="760.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@../../../checkout.jpg" />
+         </image>
+      </ImageView>
+      <Label layoutX="158.0" layoutY="217.0" text=" CHECKOUT SUCCESSFUL!! ">
+         <font>
+            <Font name="Barlow Condensed SemiBold" size="35.0" />
+         </font>
+      </Label>
+      <Label layoutX="206.0" layoutY="295.0" text=" Thank you for shopping with us!! ">
+         <font>
+            <Font name="Candara" size="16.0" />
+         </font>
+      </Label>
+      <Button layoutX="214.0" layoutY="399.0" mnemonicParsing="false" text=" BACK TO HOME ">
+         <font>
+            <Font name="Copperplate Gothic Bold" size="20.0" />
+         </font>
+      </Button>
+      <Button fx:id="closeButton" layoutX="212.0" layoutY="400.0" mnemonicParsing="false" onAction="#button" opacity="0.0" prefHeight="37.0" prefWidth="212.0" text="Button" />
+   </children>
+</AnchorPane>

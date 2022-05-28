@@ -508,4 +508,18 @@ public class HelloController {
         nstage.show();
 
     }
+
+    @FXML
+    protected void endingp() throws IOException {
+        // get a handle to the stage
+        Stage stage = (Stage) closeButton.getScene().getWindow();
+        stage.close();
+
+        FXMLLoader fxmlLoader = new FXMLLoader(HelloApplication.class.getResource("end_page.fxml"));
+        Scene scene = new Scene(fxmlLoader.load(), 640, 480);
+        Stage nstage = new Stage();
+        nstage.setTitle("Boots Shop");
+        nstage.setScene(scene);
+        nstage.show();
+    }
 }
